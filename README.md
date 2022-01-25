@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umair
-- 👀 I’m interested in Web Developing 
-- 🌱 I’m currently learning C++ to get hand on OOP and DSA concepts
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React,WEB 3.0,Nodejs,PHP to get hand on front end and backend concepts and exploring it.
 - 📫 You can reach me through email which is 19muhammadumair@gmail.com
 
 <!---
