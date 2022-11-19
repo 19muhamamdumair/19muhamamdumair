@@ -6,11 +6,10 @@
 <p align="center">
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
 <br>
-  
-   <p align="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umair-789aa0210/) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:19muhammadumair@gmail.com)
-</p>
+
 <br/>
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
