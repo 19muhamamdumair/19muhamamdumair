@@ -7,10 +7,10 @@
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
 <br>
   
-   
+   <p style={textAlign:'center'}>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umair-789aa0210/) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:19muhammadumair@gmail.com)
-
+</p>
 <br/>
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
@@ -72,14 +72,8 @@
 <!-- <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" />   -->
 <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
 <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
-<img alt="Xml" src="https://s10.gifyu.com/images/xml-vector-icon-removebg-preview-1.png" 
 
 </p>
-
-![GitHub repo size](https://img.shields.io/github/repo-size/19muhammadumair/odooapps?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/19muhammadumair/odooapps?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/19muhammadumair/odooapps?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/19muhammadumair/odooapps?color=red&style=plastic)
 
 <br/>
 
@@ -145,10 +139,7 @@ Feel free to ask me any questions about MERN stack development | Blockchain Deve
   </div>
   <br>
 <table>
-  <h2>📊 Top Languages: </h2>
-    <tr>
-    <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19muhammadumair&langs_count=10&theme=merko&layout=compact&hide=html">
-    </tr>
+ 
 </table>
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 </p>
