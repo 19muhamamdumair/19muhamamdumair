@@ -76,7 +76,6 @@
 ## :raised_hands: Let's Learn Together!
 
 Feel free to ask me any questions about MERN stack development | Blockchain Development | GraphQL | Odoo | MySQL
-    Email  (<a href="mailto:19muhammadumair@gmail.com">19muhammadumair@gmail.com</a>). As simple as that!
 
   </td>
   <td width="50%" valign="top">
@@ -165,6 +164,4 @@ Feel free to ask me any questions about MERN stack development | Blockchain Deve
 
 </details>
   
-------
-Last Modified By: [Muhammad Umair Ali](https://github.com/19muhammadumair)
 Last Modified on: 20/11/2022
